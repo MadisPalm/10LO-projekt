@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/asd.unity
+=======
+- path: Assets/suema.unity
+>>>>>>> ea6568972084ed95e13b0a1795147d3410bb3abe
   isLoaded: 1
   isActive: 1
